@@ -21,5 +21,6 @@ while (guess != number) {
 
 }
 System.out.println("Congratulations! You guessed the number correctly.");
+
     }
 }
